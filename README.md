@@ -38,3 +38,30 @@ Goal : 셀러와 구매자 사이를 중개해 주는 커머스 서버를 구축
 ## 주문
 - [ ] 장바구니
 - [ ] 고객이 주문
+
+
+## 사용할 기술 및 버전
+
+Java 11
+
+Database :
+ RDB : Mysql
+ Non-Relation DBMs : Redis
+ 
+Test : Junit5
+
+Build : Gradle
+
+Login Token : JWT
+
+Test UI : Swagger
+
+
+
+
+
+
+
+
+
+
